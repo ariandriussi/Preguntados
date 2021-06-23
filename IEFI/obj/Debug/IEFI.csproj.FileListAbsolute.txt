@@ -1,0 +1,11 @@
+C:\Users\arian\Desktop\all\varios\ies\programacion\programacion4\IEFI\IEFI\IEFI\IEFI\obj\Debug\IEFI.csprojAssemblyReference.cache
+C:\Users\arian\Desktop\all\varios\ies\programacion\programacion4\IEFI\IEFI\IEFI\IEFI\obj\Debug\IEFI.Properties.Resources.resources
+C:\Users\arian\Desktop\all\varios\ies\programacion\programacion4\IEFI\IEFI\IEFI\IEFI\obj\Debug\IEFI.csproj.GenerateResource.cache
+C:\Users\arian\Desktop\all\varios\ies\programacion\programacion4\IEFI\IEFI\IEFI\IEFI\obj\Debug\IEFI.csproj.CoreCompileInputs.cache
+C:\Users\arian\Desktop\all\varios\ies\programacion\programacion4\IEFI\IEFI\IEFI\IEFI\bin\Debug\IEFI.exe.config
+C:\Users\arian\Desktop\all\varios\ies\programacion\programacion4\IEFI\IEFI\IEFI\IEFI\bin\Debug\IEFI.exe
+C:\Users\arian\Desktop\all\varios\ies\programacion\programacion4\IEFI\IEFI\IEFI\IEFI\bin\Debug\IEFI.pdb
+C:\Users\arian\Desktop\all\varios\ies\programacion\programacion4\IEFI\IEFI\IEFI\IEFI\obj\Debug\IEFI.exe
+C:\Users\arian\Desktop\all\varios\ies\programacion\programacion4\IEFI\IEFI\IEFI\IEFI\obj\Debug\IEFI.pdb
+C:\Users\arian\Desktop\all\varios\ies\programacion\programacion4\IEFI\IEFI\IEFI\IEFI\obj\Debug\IEFI.inicio.resources
+C:\Users\arian\Desktop\all\varios\ies\programacion\programacion4\IEFI\IEFI\IEFI\IEFI\obj\Debug\IEFI.Historia1.resources
